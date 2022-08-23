@@ -8,7 +8,7 @@ I'm a computer scientist and a mortgage loan originator, serving in the 🇺🇸
 
 [scholar]: https://scholar.google.com/citations?user=1vXVdMsAAAAJ
 [home]: https://www.shantanusharma.com/
-[mortgage] https://www.stemlending.com/quote
+[mortgage]: https://www.stemlending.com/quote
 
 ---
 [![Follow on Twitter](https://img.shields.io/twitter/follow/shantanu?label=Follow&style=social)](https://twitter.com/shantanu)
