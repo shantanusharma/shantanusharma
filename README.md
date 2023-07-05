@@ -1,8 +1,8 @@
 ### Hi there, I'm Shantanu 👋
 
-I'm a computer scientist and a mortgage loan originator, serving in the 🇺🇸 (NMLS #1677482). 
+I'm a computer scientist. 
 
-- 🔭 I’m currently serving via [Sharma Labs](https://www.sharmalabs.com/) and [Edge Home Finance Corporation](https://www.edgehomefinance.com/) mortgage brokerage (NMLS #891464).
+- 🔭 I’m currently serving via [Sharma Labs](https://www.sharmalabs.com/).
 - 📫 The best way to reach me is via a [LinkedIn invitation](https://www.linkedin.com/in/shantanu/) sharing context of the outreach.
 - 😄 Pronouns: He/him/his
 
