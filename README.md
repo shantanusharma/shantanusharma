@@ -2,7 +2,7 @@
 
 I'm a computer scientist. 
 
-- 🔭 I’m currently serving via [Aarogya Tech](https://www.aarogyatech.com/)
+- 🔭 I’m currently serving via [Sharma Labs](https://www.sharmalabs.com/)
 - 📫 The best way to reach me is via a [LinkedIn invitation](https://www.linkedin.com/in/shantanu/) sharing context of the outreach.
 - 😄 Pronouns: He/him/his
 - 𝍒 NMLS: #1677482 CO-NMLS: #320841 [Loan Factory](https://www.shantanu.us/apply)
