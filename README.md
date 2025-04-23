@@ -2,7 +2,6 @@
 
 I'm a computer scientist. 
 
-- 🔭 I’m currently serving via [Sharma Labs](https://www.sharmalabs.com/)
 - 📫 The best way to reach me is via a [LinkedIn invitation](https://www.linkedin.com/in/shantanu/) sharing context of the outreach.
 - 😄 Pronouns: He/him/his
 - 𝍒 NMLS: #1677482 CO-NMLS: #183264 [R & J Capital Group LLC](https://rjcmortgage.shapeportal.com/ref/166)
