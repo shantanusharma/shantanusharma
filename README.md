@@ -2,9 +2,9 @@
 
 I'm a computer scientist. 
 
-- 📫 The best way to reach me is via a [LinkedIn invitation](https://www.linkedin.com/in/shantanu/) sharing context of the outreach.
+- 📫 The best way to reach me is via a [LinkedIn invitation](https://www.linkedin.com/in/shantanu/) sharing the context of the outreach.
 - 😄 Pronouns: He/him/his
-- 𝍒 NMLS: #1677482 CO-NMLS: #183264 [R & J Capital Group LLC](https://rjcmortgage.shapeportal.com/ref/166)
+- 𝍒 NMLS: #1677482 [🏡 🔜 Get your custom mortgage quote](https://go.shantanu.us/apply).
 
 > * [Follow on Twitter](https://twitter.com/intent/follow?screen_name=shantanu)
 > * [Reach out on LinkedIn](https://www.linkedin.com/in/shantanu/)
