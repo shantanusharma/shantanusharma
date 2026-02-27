@@ -13,3 +13,10 @@ I'm a computer scientist.
 
 ---
 [![Follow on Twitter](https://img.shields.io/twitter/follow/shantanu?label=Follow&style=social)](https://twitter.com/shantanu)
+
+<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=925897" target="_blank" style="display: block" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=925897&image_size=auto&color_scheme=dark" width="771" height="auto">
+    <img alt="Dashboard stats of @shantanusharma" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=925897&image_size=auto&color_scheme=light" width="771" height="auto">
+  </picture>
+</a>
